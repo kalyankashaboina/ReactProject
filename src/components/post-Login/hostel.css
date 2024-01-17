@@ -1,0 +1,98 @@
+#mainhostel{
+    display: grid;
+    gap: 20px;
+    padding: 20px;
+}
+.d1hostel{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+#namehostel{
+    font-size: 40px;
+}
+#imagehostel{
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    overflow: hidden;
+}
+img{
+    width: 100%;
+    height: 100%;
+    
+}
+#stats{
+    display: flex;
+    gap: 30px;
+}
+p{
+    font-size:18px ;
+}
+.t{
+    font-size: 25px;
+    margin-top: -10px;
+}
+.d2{
+    display: flex;
+    justify-content: space-between;
+}
+button{
+    font-size: 18px;
+    border: none;
+    background-color: transparent;
+    border-radius: 30px;
+    padding: 10px;
+}
+#m:focus{
+    color: white;
+    background-color: rgb(15, 14, 14,0.8);
+    font-weight: 600;
+}
+#f{
+   
+    border-radius: 5px;
+    background-color: rgb(24, 215, 24);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: 600;
+
+}
+#fw{
+    font-size: 23px;
+    overflow: hidden;
+    white-space: nowrap;
+    width: 68%;
+    
+}
+#m{
+    font-size: 23px;
+    border: 1px solid;
+    border-radius: 5px;
+}
+select{
+    padding: 5px;
+    border-radius: 5px;
+    font-size: 16px;
+}
+.button1:focus{
+    background-color: rgb(41, 37, 37);
+    color: whitesmoke;
+    border-radius: 15px;
+}
+img{
+    width:100% ;
+    height: 100%;
+}
+.d3{
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    gap: 20px;
+}
+#buttonssdiv{
+    display: flex;
+    gap: 20px;
+}

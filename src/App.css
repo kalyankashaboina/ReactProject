@@ -1,0 +1,94 @@
+/* .App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+} */
+
+.click{
+  color: azure;
+  background-color:yellowgreen;
+  padding:5px;
+  border-radius: 20%;
+}
+.click:hover{
+  color: whitesmoke;
+  background-color: black;
+  padding: 5px;
+  border-radius: 20%;
+  transition: 200ms;
+
+}
+.click1{
+  color: azure;
+  background-color:orange;
+  padding:5px;
+  border-radius: 20%;
+}
+.click1:hover{
+  color: whitesmoke;
+  background-color: black;
+  padding: 5px;
+  border-radius: 20%;
+  transition: 200ms;
+
+}
+.click2{
+  color: lightseagreen;
+  /* font-size: large; */
+}
+.click2:hover{
+  color: aqua;
+  scale: 1px;;
+}
+
+/* .div1{
+  background-image: url('https://tse2.mm.bing.net/th?id=OIP.Y6UvT1bbD0v-xRGc5Z1oeAHaF7&pid=Api&P=0&h=220');
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100vw;
+  
+padding: 20px;
+  
+} */
+
+
+
+
+
+
+
+
+

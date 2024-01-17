@@ -1,0 +1,30 @@
+.homediv{
+display: flex;
+
+}
+
+#mainnav{
+    display: flex;
+background-color: aqua;
+
+}
+
+.searchdiv{
+    background-color: blueviolet;
+    height:3px;
+
+
+}
+li{
+   list-style: none; 
+}
+formdivs{
+    /* width: fit-content; */
+    height:20px;
+    background-color: brown;
+    margin-top: 6px;
+
+}
+.formdiv{
+    height: fit-content;
+}
